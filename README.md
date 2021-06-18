@@ -1,1 +1,11 @@
 # Stock-And-Crypto-Trader
+## Requirements:
+* robin_stocks
+* pyotp
+* time
+* sys
+* pandas
+* colorama
+* os
+* json
+* datetime
